@@ -1,3 +1,4 @@
 data/
 other/plantvillage dataset
 plantenv
+*/*.h5
